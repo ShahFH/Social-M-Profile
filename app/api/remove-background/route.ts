@@ -18,10 +18,10 @@ export async function POST(request: Request) {
     const base64Image = buffer.toString('base64')
 
     // Call remove.bg API
-    const response = await fetch('https://api.remove.bg/v1.0/removebg', {
+    const response = await fetch('remove bg service provided link here', {
       method: 'POST',
       headers: {
-        'X-Api-Key': 'evXyG5XxDtAQoi56ignnrSqx',
+        'X-Api-Key': 'api key here',
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
