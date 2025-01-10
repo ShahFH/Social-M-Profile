@@ -4,7 +4,7 @@
 
 ### In-progress
 
-PixelPerfect is an innovative web application that leverages AI technology to help users create stunning, professional-quality profile pictures. With a range of features and an intuitive interface, PixelPerfect makes it easy for anyone to enhance their online presence.
+PixelPerfect is an innovative web application to help users create stunning, professional-quality profile pictures. With a range of features and an intuitive interface, PixelPhoto makes it easy for anyone to enhance their online presence.
 
 ## Features
 
