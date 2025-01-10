@@ -1,4 +1,4 @@
-# PixelPhoto: AI-Powered Profile Picture Creator
+# PixelPhoto: Socail Media Profile Picture Creator
 
 <img src="/profilephotosite.png" />
 
